@@ -1,17 +1,10 @@
-
-	<link rel="stylesheet" href="css/contacts-style.css" />
-
-	
-	
-
-
-
+<link rel="stylesheet" href="css/aboutus.css" />
 
 
 
 		<div id="content">
 			<h1 style="letter-spacing: 0.7px">Приветствуем Вас!</h1>
-			<p>Наши специалисты с удовольствием помогут Вам</p>
+			<p>" Фабрика Мебели " первый украинский производитель представленный на мировом рынке</p>
 			
 				<!--Разделы Каталога-->
 
@@ -20,57 +13,51 @@
 							
            <!--Продукт Номер 1-->
 
+							<div class="products">
+								<div class="p-img">
+									<span class="sale">Начиная с 1986-го года<br> мы работаем над совершенствованием наших технологий,<br> красотой дизайна,<br> и удобством сервиса!</span>   
+									<a href="#"><img src="examples_photo/gta5.jpg" width="728" height="325" alt="">
+									</a>
+								</div>
+									<h6>Первый завод<span> " Фабрики Мебели "</span></h6>
+									<p>1986 год</p>
+							</div>
+           
+           <!--Продукт Номер 1-->
 
+           <!--Продукт Номер 2-->
+
+							<div class="products">
+								
+								
+									<ul>
+										<li><i class="fa fa-check-circle-o fa-lg"></i> <word>Индивидуальный подход к каждому клиенту</word></li>
+										<li><i class="fa fa-check-circle-o fa-lg"></i> <word>Cистема скидок</word></li>
+										<li><i class="fa fa-check-circle-o fa-lg"></i> <word>Программа лояльности для постоянных и оптовых клиентов</li>
+										<li><i class="fa fa-check-circle-o fa-lg"></i> <word>Только органические материалы </word></li>
+										<li><i class="fa fa-check-circle-o fa-lg"></i> <word>Изготовленные в лучших условиях</word></li>
+										<li><i class="fa fa-check-circle-o fa-lg"></i> <word>Идеальное соотношение цены и качества</word></li>
+										
+									</ul>
+								<hr>
+										<p>каждая новая разработка<br> проходит проверку на соответствие всем стандартам  "Союза Деревообрабатывателей"<br> и только после этого идет в массовое производство<br>
+										<br>По этому вы можете быть уверенными в качестве нашей работы</p>
+							</div>
+			<!--Продукт Номер 2-->
 
 			 <!--Продукт Номер 2-->
 
 							<div class="products">
 								
-								<article>Связавжитесь с нами в любое удобное для Вас время
+								<article>Связавжитесь с нами в любое удобное для вас время
 									<br>
 									<ul>
-										<li><i class="fa fa-phone-square"></i> <word><b> 068 344 21 777</b></word></li>
+										<li><i class="fa fa-phone-square"></i><word><b>068 344 21 777</b></word></li>
 											<li>
-										<i class="fa fa-envelope-o"></i> <word><b> buyfurniture@fabric.ua</b></word>
+										<i class="fa fa-envelope-o"></i> <word><b>buyfurniture@fabric.ua</b></word>
 											</li>
 									</ul>
 								</article>
-										<form action= "formdata.php" method= "POST">
-													<div>
-														Ф.И.О
-															
-																		<input type="text" name="name" size="40" maxlength="50" value="Введите текст">
-
-													</div>
-													<div>
-														
-					                                  Номер телефона				<input type="text"  name="number" maxlength="50" size="27">
-
-													</div>
-
-													<div>
-														
-					                                  e-mail				<input type="text" name="email" maxlength="50" size="30">
-
-													</div>
-						
-
-													<p>Ваше Сообщение</p>
-													<div>
-														
-															<textarea class="message_lg" name="message" col="60" row="5"></textarea>			
-
-
-													</div>
-
-													<div>
-														
-														
-													<input type="submit" value="Отправить">
-
-
-													</div>
-										</form>				
 									
 								
 							</div>
@@ -87,7 +74,11 @@
 
 			<!--Главная Новость-->
 
-					
+					<div class="general">
+						
+						<p>Сайт работает в тестовом режиме</p>
+						
+					</div>
 
 						<!--Главная Новость-->
 

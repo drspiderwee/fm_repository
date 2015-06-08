@@ -3,7 +3,7 @@
 
 
 		<div id="content">
-			<h1 style="letter-spacing: 0.7px">Двухъярусная кровать - КАРИНА</h1>
+			<h1 style="letter-spacing: 0.7px">Двухъярусная кровать - БЕРНАР</h1>
 			<p>трансформер</p>
 			
 				<!--Разделы Каталога-->
@@ -19,10 +19,10 @@
 
 							<div class="products">
 								<div class="fotorama" data-autoplay="true" data-nav="thumbs"  data-transition="dissolve">
-									<img src="catalog_test/examples_photo/catalog_var/1/dvuhjarusnaja krovat_karina/karina-t.jpg" width="384" height="284" alt="Двухъярусная кровать - КАРИНА" "Акция">
-									<img src="catalog_test/examples_photo/catalog_var/1/dvuhjarusnaja krovat_karina/karina-b.jpg" width="384" height="284" alt="Двухъярусная кровать - КАРИНА" "Цвет - Белый">
-									<img src="catalog_test/examples_photo/catalog_var/1/dvuhjarusnaja krovat_karina/karina-x.jpg" width="384" height="284" alt="Двухъярусная кровать - КАРИНА" "Цвет - Орех">
-									<img src="catalog_test/examples_photo/catalog_var/1/dvuhjarusnaja krovat_karina/karina-v.jpg" width="384" height="284" alt="Двухъярусная кровать - КАРИНА" "Цвет - Ольха">
+									<img src="catalog_test/examples_photo/catalog_var/1/dvuhjarusnaja krovat_bernar/krovat_bernar2.jpg" width="384" height="284" alt="Двухъярусная кровать - Бернар" "Акция">
+									<img src="catalog_test/examples_photo/catalog_var/1/dvuhjarusnaja krovat_bernar/krovat_bernar3.jpg" width="384" height="284" alt="Двухъярусная кровать - Бернар" "Цвет - Белый">
+									<img src="catalog_test/examples_photo/catalog_var/1/dvuhjarusnaja krovat_bernar/krovat_bernar.jpg" width="384" height="284" alt="Двухъярусная кровать - Бернар" "Цвет - Орех">
+									
 								</div>
 
 									<div class="front-txt">
@@ -103,8 +103,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cca90329', e
 									<!--футер прод-->
 									
 								<div class="prodfoot">
-									<p>Детская двухъярусная кровать - трансформер « КАРИНА »<br>
-									   <br>– самая популярная на сегодняшний день двухъярусная модель для сна,<br><br> Благодаря необычному, и в то же время простому классическому дизайну,<br> эта модель занимает почетное Первое Место<br> среди огромного множества детской мебели</p><br>
+									<p>Детская двухъярусная кровать - трансформер « БЕРНАР »<br>
+									   <br>– самая популярная на сегодняшний день двухъярусная модель для сна,<br><br> Благодаря необычному и, в то же время, простому классическому дизайну,<br> эта модель занимает почетное Первое Место<br> среди огромного множества детской мебели</p><br>
 									   <hr style="width:90%; margin-left:32px">
 									   
 									   <ul>
@@ -189,7 +189,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cca90329', e
 						<!--Подновости Начало-->
 
 
-					<!--FEATURES-->
+				<!--FEATURES-->
                      <section>
                      	<?php include 'features.php'; ?>
                      </section>

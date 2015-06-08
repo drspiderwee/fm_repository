@@ -19,7 +19,7 @@
 
 
 			<div class="logo">
-				<img src="img/logotst2.png" style="border: 3px solid #FFF; border-radius: 24px; box-shadow: 0 0 5px #ccc;" alt="Фабрика Мебели">
+				<img src="img/logotst3.png" style="border: 3px solid #FFF; border-radius: 24px; box-shadow: 0 0 5px #ccc;" alt="Фабрика Мебели">
 			</div>
 			
 

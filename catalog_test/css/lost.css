@@ -31,7 +31,7 @@ h1 {
 	font-family: Lobster;
 	padding-right: 22px;
 	font-weight: normal;
-	font-size: 17px;
+	font-size: 22px;
 	color: #990033;
 
 	text-shadow: 1px 1px 1px #F0F0F0  ;
@@ -256,12 +256,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e5dcdc', end
 
 }
 
-.front-img {
+.fotorama {
 	padding: 12px 12px 12px;
 	float: left;
 	width: 384px;
 }
-.front-img>img{
+.fotorama>img{
 	border-radius: 3px;
 
 }
@@ -323,7 +323,7 @@ padding-left: 6px;
 
 .products {
 	width: 710px;
-	height: 940px;
+	height: 958px;
 	float: left;
 	margin-top: 20px;
 	margin-right: 18px;

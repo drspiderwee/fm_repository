@@ -22,6 +22,7 @@ $title = isset($arr[$_GET['view']]) ? $arr[$_GET['view']] : 'Главная ст
 	<!--<title>Фабрика Мебели - Главная Страница</title>-->
 	<!--[if lt IE 9]><script src="http://htm5shim.googlecode.com/svn/trunk/html5.js"></script><![end if]-->
 	<link rel="stylesheet" href="css/style.css" />
+	<link rel="stylesheet" href="css/fotorama.css" />
 	<link rel="stylesheet/less" type="text/css" href="my_frame.less">
 	<link rel="stylesheet" href="css/jquery.bxslider.css" />
 	<link rel="stylesheet" href="css/font-awesome.css" />
@@ -65,6 +66,7 @@ $title = isset($arr[$_GET['view']]) ? $arr[$_GET['view']] : 'Главная ст
 	<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.5.0/less.min.js"></script>
 	<script type="text/javascript" src="libs/jquery.bxslider.js"></script>
 	<script type="text/javascript" src="js/main.js"></script>
+	<script type="text/javascript" src="libs/fotorama.js"></script>
 	
 <footer>	
 	<style>

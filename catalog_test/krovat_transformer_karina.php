@@ -18,9 +18,11 @@
 			 <!--Продукт Номер 2-->
 
 							<div class="products">
-								<div class="front-img">
-									
-									<img src="catalog_test/examples_photo/catalog_var/1/karina-t.jpg" width="384" height="284" alt="">
+								<div class="fotorama" data-autoplay="true" data-nav="thumbs"  data-transition="dissolve">
+									<img src="catalog_test/examples_photo/catalog_var/1/dvuhjarusnaja krovat_karina/karina-t.jpg" width="384" height="284" alt="Двухъярусная кровать - КАРИНА" "Акция">
+									<img src="catalog_test/examples_photo/catalog_var/1/dvuhjarusnaja krovat_karina/karina-b.jpg" width="384" height="284" alt="Двухъярусная кровать - КАРИНА" "Цвет - Белый">
+									<img src="catalog_test/examples_photo/catalog_var/1/dvuhjarusnaja krovat_karina/karina-x.jpg" width="384" height="284" alt="Двухъярусная кровать - КАРИНА" "Цвет - Орех">
+									<img src="catalog_test/examples_photo/catalog_var/1/dvuhjarusnaja krovat_karina/karina-v.jpg" width="384" height="284" alt="Двухъярусная кровать - КАРИНА" "Цвет - Ольха">
 								</div>
 
 									<div class="front-txt">
@@ -145,7 +147,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cca90329', e
 
 							<div class="products" style="font-size:22px;  height:100%; padding-bottom:22px; padding-top:8px">
 								
-								<article>Наши специалисты всегда готовы помоч вам!
+								<article>Наши специалисты всегда готовы помочь Вам!
 									<br>
 									<ul style="list-style-type:none; font-family:Ubuntu-C">
 										<li> <i class="fa fa-phone-square"></i><word><b> 068 344 21 777</b></word></li>

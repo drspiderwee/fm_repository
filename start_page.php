@@ -32,7 +32,7 @@
 
 					<div class="features1">
 						<div class="media">
-							<a class="pull-left" href="catalog_test/lot_tst.html"><img alt="Image" src="examples_photo/mini_icons/karina.jpg"></img></a>
+							<a class="pull-left" href="index.php?view=catalog_test/krovat_transformer_karina"><img alt="Image" src="examples_photo/mini_icons/karina.jpg"></img></a>
 							<div class="media-body">
 								<h4 class="media-heading">Карина</h4>
 								<p>Двухъярусная кровать трансформер</p>

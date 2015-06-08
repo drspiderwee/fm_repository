@@ -8,3 +8,12 @@ $(document).ready(function(){
   });
 
 $('#title').addClass('animated slideInRight');
+
+
+$(document).ready(function(){
+  $('.fotorama').fotorama({
+  
+  data-autoplay="3000",
+
+});
+  });

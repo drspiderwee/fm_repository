@@ -10,8 +10,8 @@
 				</ul>
 				
 			
-				<form method"" action="">
-					<a href="#"><img src="img/search222.png" width="24" height="24" class="search_img"></img></a>
+				<form method="GET" action="search.php">
+					<a href="index.php?view=search"><img src="img/search222.png" width="24" height="24" class="search_img"></img></a>
 					<input type="text" name="topsearch" placeholder="Ищем что-то?" class="Search"></input>
 				</form>
 

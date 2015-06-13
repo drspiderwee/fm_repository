@@ -6,9 +6,10 @@
 	<meta charset="UTF-8">
 
 
+
 <?php
 $arr = array('contacts' => 'Контакты', 'aboutus' => 'О нас',
- 'sidebar_test/instrukcia' => 'Инструкция', 'sidebar_test/dostavka' => 'Доставка', 'catalog' => 'Каталог', 
+ 'sidebar_test/instrukcia' => 'Инструкция', 'sidebar_test/dostavka' => 'Доставка', 'catalog' => 'Каталог', 'search' => 'Поиск', 
  'how_to' => 'Как Сделать Заказ', 'sidebar_test/color' => 'Выбор Цвета', 'sidebar_test/garantia' => 'Гарантия', 'sidebar_test/comments' => 'Комментарии',
  'sidebar_test/materials' => 'Материалы',
   'catalog_test/ortopedicheskie_matrasu' => 'Ортопедические Матрасы', 'catalog_test/odnospalnie_krovati' => 'Односпальные Кровати',
@@ -17,6 +18,7 @@ $arr = array('contacts' => 'Контакты', 'aboutus' => 'О нас',
 
 $title = isset($arr[$_GET['view']]) ? $arr[$_GET['view']] : 'Главная страница';
 ?>
+
 
 <title><?php echo $title; ?></title>
 	<!--<title>Фабрика Мебели - Главная Страница</title>-->
@@ -28,6 +30,8 @@ $title = isset($arr[$_GET['view']]) ? $arr[$_GET['view']] : 'Главная ст
 	<link rel="stylesheet" href="css/font-awesome.css" />
 	<link rel="stylesheet" href="css/pure.css" />
 	<link rel="stylesheet" href="css/bootstrap-social.css" />
+
+
 	
 
 
@@ -35,7 +39,7 @@ $title = isset($arr[$_GET['view']]) ? $arr[$_GET['view']] : 'Главная ст
 <body>
 <!--Соц-->
 
-	
+
 <!--Контент-->
 
 	<div id="page_align" class="b3radius">
@@ -67,6 +71,7 @@ $title = isset($arr[$_GET['view']]) ? $arr[$_GET['view']] : 'Главная ст
 	<script type="text/javascript" src="libs/jquery.bxslider.js"></script>
 	<script type="text/javascript" src="js/main.js"></script>
 	<script type="text/javascript" src="libs/fotorama.js"></script>
+
 	
 <footer>	
 	<style>
@@ -83,3 +88,4 @@ $title = isset($arr[$_GET['view']]) ? $arr[$_GET['view']] : 'Главная ст
 </body>
 
 </html>
+
